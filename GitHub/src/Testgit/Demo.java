@@ -11,6 +11,13 @@ public class Demo
 	{
 		System.out.println("anjali");
 	}
+	
+	public void m2()
+	{
+           System.out.println("Bhusari");
+		
+	}
+	
 		
 
 }
